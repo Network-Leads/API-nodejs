@@ -1,0 +1,34 @@
+{
+  "name": "@network-leads/app-node",
+  "version": "1.0.4",
+  "description": "Network Leads API",
+  "main": "lib/NetworkLeads.js",
+  "scripts": {
+    "test": "node test test.js"
+  },
+  "author": "Niv Apo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": ">=8.1.0",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "npmrc": "^1.1.1",
+    "qs": "^6.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivapo95/APP-node.git"
+  },
+  "keywords": [
+    "network",
+    "leads",
+    "api",
+    "node",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/nivapo95/APP-node/issues"
+  },
+  "homepage": "https://github.com/nivapo95/APP-node#readme"
+}
